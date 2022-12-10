@@ -1,0 +1,14 @@
+{
+  "IdEspacio": {
+    "S": ""
+  },
+  "Fecha": {
+    "S": ""
+  },
+  "Jornada"{
+  "S": ""
+  },
+  "Ocupacion":{
+  "S": ""
+  }
+}

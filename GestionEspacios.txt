@@ -1,0 +1,21 @@
+{
+  "IdEspacio": {
+    "S": ""
+  },
+  "Cashiers":
+  {
+   "S": ""
+  },
+  "Oficina":
+  {
+   "S": ""
+  },
+  "Sensor":
+  {
+   "S": ""
+  },
+  "Tamaño":
+  {
+   "S": ""
+  }
+ }
